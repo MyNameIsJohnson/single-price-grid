@@ -1,0 +1,63 @@
+body {
+  background-color: #F3F0F0;
+  width: 1440px;
+  height: 100%;
+}
+.container {
+  background-color: #FFFFFF;
+  flex-wrap: wrap;
+  width: 596px;
+  height: 450px;
+  margin: 10% auto;
+  display: flex;
+  font-family: 'Karla', sans-serif;
+}
+
+h2 {
+  color: hsl(179, 62%, 43%);
+}
+
+header {
+  padding: 30px;
+}
+
+header h4 {
+  color: hsl(71, 73%, 54%);
+}
+
+header p {
+  font-size: 16px;
+  color: hsl(218, 22%, 67%)
+}
+
+p {
+  font-size: 16px;
+}
+
+.dollar {
+  font-size: 30px;
+}
+
+.dollar-p {
+  color: #4dd8d7;
+  position: fixed;
+  margin: 10px 0px 0px 0px;
+}
+
+.content {
+  color: hsl(204, 43%, 93%);
+}
+
+.left-content {
+  width: 238px;
+  height: 200px;
+  background-color: #00B7B4;
+  padding: 30px;
+}
+
+.right-content {
+  width: 238px;
+  height: 200px;
+  background-color: #00C2C0;
+  padding: 30px;
+}
